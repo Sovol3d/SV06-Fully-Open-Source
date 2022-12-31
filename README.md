@@ -1,0 +1,21 @@
+# Introduction
+
+Sovol SV06 is a budget printer with compact functions. It’s developed by Sovol to pay tribute to the Reprap project that makes 3D Printing affordable and common.
+It’s with an All Metal Hotend and a Planetary Gear Direct Drive Extruder, PEI Plate, 25 point Auto Leveling, 32bit Silent Mainboard, Dual Z axis, and Belt Tensioner etc.
+The SV06 was released 2 months ago( Oct.11, 2022) and has gained popularity from lots of customers. To express our thanks to your support, and pay tribute to the community, Sovol makes the fully open source available.
+You are very welcome to share with us your experience if you use the SV06 source files.
+
+
+# Learn more
+
+on Sovol Official Website: https://sovol3d.com/products/sovol-sv06-direct-drive-3d-printer
+
+
+# Join Sovol Community
+
+- Sovol Facebook page: https://www.facebook.com/sovol3d/
+- Sovol Youtube Channel: https://www.youtube.com/c/Sovol/videos
+- Sovol Offcial User Group: https://www.facebook.com/groups/sovol3d
+- Sovol Forum website: https://forum.sovol3d.com/
+
+
